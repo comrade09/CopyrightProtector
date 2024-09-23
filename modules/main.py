@@ -30,8 +30,8 @@ bot = Client(
 
 
 GROUPS = {
-    "Group 1": -1002468416084,  # Replace with your actual group IDs
-    "Group 2": -1001234567890,  # Replace with your actual group IDs
+    "Group 1": -1001506454180,  # Replace with your actual group IDs
+    "Group 2": -1001814803421,  # Replace with your actual group IDs
     "Group 3": -1009876543210   # Replace with your actual group IDs
 }
 
